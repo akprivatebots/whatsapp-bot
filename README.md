@@ -13,6 +13,9 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 4. Click [FORK](https://github.com/lyfe00011/whatsapp-bot/fork)
 5. Now https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot copy this url and change lyfe00011 with your github username and click GO<br>
+
+<p><a href="https://heroku.com/deploy?template=https://github.com/akprivatebots/whatsapp-bot)"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a></p>
+
    <br>
    <a href="https://youtu.be/FAT06h8jPZY"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
    <br>
